@@ -1,0 +1,7 @@
+cv2
+mediapipe
+numpy
+pandas
+streamlit
+pickle
+tempfile
