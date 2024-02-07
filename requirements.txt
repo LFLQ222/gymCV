@@ -1,7 +1,5 @@
-cv2
+opencv-python-headless
 mediapipe
 numpy
 pandas
 streamlit
-pickle
-tempfile
