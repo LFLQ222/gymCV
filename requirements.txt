@@ -4,4 +4,3 @@ opencv_contrib_python==4.9.0.80
 opencv_python==4.9.0.80
 pandas==2.2.0
 streamlit==1.31.0
-scikit-learn
