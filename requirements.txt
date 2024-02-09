@@ -4,3 +4,4 @@ opencv-python-headless
 pandas==2.2.0
 streamlit==1.31.0
 scikit-learn
+streamlit-webrtc
