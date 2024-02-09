@@ -113,11 +113,9 @@ def main():
                         pass
 
                     stframe.image(image, channels="BGR", use_column_width=True)  # Specify BGR channels
-                    if cv2.waitKey(10) & 0xFF == ord('q'):
-                        break
 
-                cap.release()
-                cv2.destroyAllWindows()
+            cap.release()
+
         else:
             st.error("Please upload a video file.")
 
